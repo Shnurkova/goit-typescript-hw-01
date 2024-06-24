@@ -16,9 +16,3 @@ function compare<T extends AllType>(
     weight: bottom.weight,
   };
 }
-
-// const topO = { name: "top", color: "red" };
-// const bottomO = { position: 1, weight: 20 };
-
-// const result = compare(topO, bottomO);
-// console.log(result);
